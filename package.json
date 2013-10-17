@@ -1,0 +1,33 @@
+{
+  "name": "WIGILABS-MUNDIAL",
+  "version": "0.0.1",
+  "author": "WIGILABS <jgaray@wigilabs.com>",
+  "description": "This allow submit scores of BRAZIL 2014 doing bet's for wigi-gamblers",
+  "keywords":["wigilabs","mundial","BRAZIL","2014"],
+  "contributors": [ 
+    {
+      "name": "Jorge Garay",
+      "email": "jgaray@wigilabs.com",
+	  "GitHub":"https://github.com/joredjs",
+	  "Twitter":"@canbasslap"
+    } 
+  ],
+  "bin": {
+    "app": "bin/app.js"
+  },
+  "scripts": {
+    "start": "node bin/app.js",
+  },
+  "main": "bin/app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joredjs/WIGIMUNDIAL"
+  },
+  "dependencies" : {
+  },
+  "analyze": true, 
+  "licenses":     [{
+    "type":       "MIT",
+    "url":        "https://github.com/Joredjs/WIGIMUNDIAL/blob/master/LICENSE"
+  }],
+}
