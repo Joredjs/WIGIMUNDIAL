@@ -30,4 +30,7 @@
     "type":       "MIT",
     "url":        "https://github.com/Joredjs/WIGIMUNDIAL/blob/master/LICENSE"
   }],
+  "engines": {
+    "node": ">=0.10"
+  }
 }
