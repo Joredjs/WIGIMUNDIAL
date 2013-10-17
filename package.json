@@ -16,7 +16,7 @@
     "app": "bin/app.js"
   },
   "scripts": {
-    "start": "node bin/app.js",
+    "start": "node bin/app.js"
   },
   "main": "bin/app.js",
   "repository": {
